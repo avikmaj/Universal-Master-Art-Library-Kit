@@ -26,3 +26,31 @@ Use this file as the routing map for the library.
 3. Use a reference-image workflow, where applicable.
 4. Convert the visual brief using a selected model adapter.
 5. Run the quality checklist before generating or publishing.
+
+## Available Context Files
+
+### Cinematic storytelling
+
+- [Cinematic Film Stills](03-cinematic-storytelling/film-stills.md)
+- [YouTube Thumbnails](03-cinematic-storytelling/youtube-thumbnails.md)
+
+### Product and commerce
+
+- [Electronics Product Photography](04-product-commerce/electronics-product-photography.md)
+
+### Brand and marketing
+
+- [Social Media Creatives](05-brand-marketing-design/social-media-creatives.md)
+
+### Image editing and reference workflows
+
+- [Character Identity Consistency](11-editing-reference/character-identity-consistency.md)
+
+### Core and model adapters
+
+- [Universal Image Prompt Framework](00-core/universal-image-prompt-framework.md)
+- [ChatGPT Image Adapter](12-model-adapters/chatgpt-image.md)
+- [Grok Image Adapter](12-model-adapters/grok-image.md)
+- [Claude Visual Brief Adapter](12-model-adapters/claude-image-brief.md)
+- [Semiconductor and Engineering Visuals](06-digital-product-tech/semiconductor-engineering.md)
+- [Prompt Quality Rubric](13-quality-safety/prompt-quality-rubric.md)
